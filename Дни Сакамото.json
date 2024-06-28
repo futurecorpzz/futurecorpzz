@@ -4,5 +4,16 @@
   "artist": "Юто Сузуки",
   "author": "Юто Сузуки",
   "cover": "https://telegra.ph/file/575f061453d808c3ee38a.jpg",
-  "chapters": {}
+  "chapters": {
+    "172": {
+      "title": "- Глава 172: Мираж",
+      "volume": "",
+      "last_updated": "1719617329",
+      "groups": {
+        "side.Order": [
+          ""
+        ]
+      }
+    }
+  }
 }
