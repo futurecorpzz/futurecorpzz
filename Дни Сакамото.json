@@ -2,40 +2,7 @@
   "title": "Дни Сакамото",
   "description": "Таро Сакамото считался величайшим киллером всех времен. Его боялись многие, он стоял на вершине киллерского мира, пока не встретил и не полюбил женщину. В результате Сакамото оставил преступную жизнь и теперь работает продавцом в магазине.\n\nОставить позади свое сомнительное прошлое оказалось сложнее, чем Сакамото мог себе представить. Многие из его бывших соперников и партнеров не верят, что он действительно ушел из бизнеса, и появляются в надежде убрать его. Запретив себе убивать, Сакамото должен найти творческий подход к уничтожению своих врагов и не дать им навредить его семье, магазину и маленькому городку, в котором он живет.\n\nКоманда side.Order в Телеграме: t.me/sideOrder",
   "artist": "Юто Сузуки",
-  "author": "side.Order",
+  "author": "Юто Сузуки",
   "cover": "https://telegra.ph/file/575f061453d808c3ee38a.jpg",
-  "chapters": {
-    "172": {
-      "title": "172 - Мираж",
-      "volume": "",
-      "last_updated": "1719615584",
-      "groups": {
-        "side.Order": [
-          "https://telegra.ph/file/1d83bcdccd3b207bfa08c.png",
-          "https://telegra.ph/file/e6f40edf5ec66f815a5b5.png",
-          "https://telegra.ph/file/f66d5fa5b0096722ca0a0.png",
-          "https://telegra.ph/file/f9d394ca781fa21515863.png",
-          "https://telegra.ph/file/bc135e77e01679008dccd.png",
-          "https://telegra.ph/file/1fec6590134dad72e226d.png",
-          "https://telegra.ph/file/8816d95fe92095ce60209.png",
-          "https://telegra.ph/file/785dbf6a71421498f1f28.png",
-          "https://telegra.ph/file/934fb29f1bcdedf7e1915.jpg",
-          "https://telegra.ph/file/72877d30f8f8e76ab3785.png",
-          "https://telegra.ph/file/5c91a546919cee9c7b239.png",
-          "https://telegra.ph/file/a05cc95e983a4d2761c10.png",
-          "https://telegra.ph/file/517aa72d48cb20a56709a.png",
-          "https://telegra.ph/file/a92a89dd93d32273cc259.jpg",
-          "https://telegra.ph/file/6faa62459215b95d5469d.png",
-          "https://telegra.ph/file/ecb8202aef9147df74f6f.png",
-          "https://telegra.ph/file/d336f5b70927ddd9d9605.png",
-          "https://telegra.ph/file/e496ab1bc014534afdc85.png",
-          "https://telegra.ph/file/2ff38381f50e01bf0d104.png",
-          "https://telegra.ph/file/a3ce37f379a7264cbe465.png",
-          "https://telegra.ph/file/99dd011a6da88f9ca899a.png",
-          "https://telegra.ph/file/d9e2c4fcae1083efe6247.jpg",
-          "https://telegra.ph/file/b7d9484518888e5854423.jpg"
-        ]
-      }
-    }
-  }
+  "chapters": {}
 }
